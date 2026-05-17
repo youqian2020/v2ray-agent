@@ -14,7 +14,12 @@
 - 目标域名管理：域名黑名单机制，精准屏蔽指定网站
 - BT 下载管理：有效禁用 P2P 及 BT 下载，保障服务器资源
 
----
+## 相关资源
+
+- 官网广告：欢迎访问 [FreeShell.CC] (https://freeshell.cc) —— 免费、好用的 SSH 终端软件。
+- 项目许可证：本脚本项目基于 [AGPL-3.0 许可证](LICENSE) 授权，请遵守相应条款。
+
+```
 
 ## 快速开始
 
@@ -41,15 +46,6 @@ wget -P /root -N --no-check-certificate "https://freeshell.cc/shell/docker_reali
 ```bash
 vasma
 ```
-
----
-
-## 相关资源
-
-- 官网广告：欢迎访问 [FreeShell.CC](https://freeshell.cc) —— 免费、好用的 SSH 终端软件。
-- 项目许可证：本脚本项目基于 [AGPL-3.0 许可证](LICENSE) 授权，请遵守相应条款。
-
----
 
 ## 提示
 

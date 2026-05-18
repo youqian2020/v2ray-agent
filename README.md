@@ -26,7 +26,7 @@
 安装脚本版（推荐）
 
 ```bash
-wget -P /root -N --no-check-certificate "https://freeshell.cc//shell/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+wget -P /root -N --no-check-certificate "https://freeshell.cc/vpn/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
 安装完成后，使用以下命令打开管理菜单：
@@ -38,7 +38,7 @@ vasma
 安装 Docker 版
 
 ```bash
-wget -P /root -N --no-check-certificate "https://freeshell.cc/shell/docker_reality.sh" && chmod 700 /root/docker_reality.sh && /root/docker_reality.sh
+wget -P /root -N --no-check-certificate "https://freeshell.cc/vpn/shell/docker_reality.sh" && chmod 700 /root/docker_reality.sh && /root/docker_reality.sh
 ```
 
 安装完成后，同样使用以下命令管理：
